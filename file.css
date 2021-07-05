@@ -1,5 +1,6 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
+    margin: ;
     }
     h1{
         font-size: 50px;
@@ -7,14 +8,16 @@ body{
     .color{color: rgb(27, 135, 207);}
     section{
         display: flex;
-        margin-bottom: 200px ;}
+        margin-bottom: 20px ;}
     .half-width{
         width: 50%;
+        padding: 2%;
     }
     .half-width img{
         width:100%
     }
-    .hal-width{width:50%}
+    .hal-width{width:50%;
+     padding-left:2%;}
     .hal-width img{
         width:80%
     }
@@ -24,7 +27,9 @@ body{
         background-image: linear-gradient(orange, tomato);
         padding: 10px 40px;
     }
-    .top-banner {
+    .top-baner {
         background-image: url(New/eee-py.jpg);
+        background-repeat: no-repeat;
+        
     }
     
