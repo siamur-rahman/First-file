@@ -16,5 +16,6 @@ body{
     }
     .link-button{
         text-decoration: none;
-        background-color: rgb(6, 202, 49);
+        background-image: linear-gradient(orange, tomato);
+        padding: 10px 40px;
     }
