@@ -7,18 +7,24 @@ body{
     .color{color: rgb(27, 135, 207);}
     section{
         display: flex;
-    }
+        margin-bottom: 200px ;}
     .half-width{
         width: 50%;
     }
     .half-width img{
         width:100%
     }
+    .hal-width{width:50%}
+    .hal-width img{
+        width:80%
+    }
+
     .link-button{
         text-decoration: none;
         background-image: linear-gradient(orange, tomato);
         padding: 10px 40px;
     }
     .top-banner {
-        background-image:url(New/eee-py.jpg);
+        background-image: url(New/eee-py.jpg);
     }
+    
