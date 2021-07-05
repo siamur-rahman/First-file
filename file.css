@@ -27,9 +27,11 @@ body{
         background-image: linear-gradient(orange, tomato);
         padding: 10px 40px;
     }
-    .top-baner {
-        background-image: url(New/eee-py.jpg);
-        background-repeat: no-repeat;
-        
-    }
+    
+    .top-baner{background-image: url(New/eee-py.jpg);
+        background-repeat: no-repeat;}
+    .dream {
+            background-image: url(New/eee\ copy.jpg);
+            background-repeat: no-repeat;
+        }
     
