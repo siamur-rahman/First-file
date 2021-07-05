@@ -5,3 +5,9 @@ body{
         font-size: 50px;
     }
     .color{color: rgb(27, 135, 207);}
+    section{
+        display: flex;
+    }
+    .half-width{
+        width: 50%;
+    }
