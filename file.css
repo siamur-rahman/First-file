@@ -19,3 +19,6 @@ body{
         background-image: linear-gradient(orange, tomato);
         padding: 10px 40px;
     }
+    .top-banner {
+        background-image:url(New/eee-py.jpg);
+    }
