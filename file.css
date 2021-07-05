@@ -6,7 +6,8 @@ body{
         font-size: 50px;
     }
     .color{color: rgb(27, 135, 207);}
-    section{
+
+    .flexible-container{
         display: flex;
         margin-bottom: 20px ;}
     .half-width{
@@ -30,8 +31,5 @@ body{
     
     .top-baner{background-image: url(New/eee-py.jpg);
         background-repeat: no-repeat;}
-    .dream {
-            background-image: url(New/eee\ copy.jpg);
-            background-repeat: no-repeat;
-        }
+    
     
